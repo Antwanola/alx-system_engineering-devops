@@ -1,6 +1,2 @@
 #!/bin/bash
-
-home_directory=$HOME
-cd "$home_directory"
-echo "Changed working directory to: $home_directory"
-
+cd "$HOME"
