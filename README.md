@@ -1,1 +1,2 @@
-This is my first shell program 
+*Shell Redirection*
+ This is a shell redirection project
