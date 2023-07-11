@@ -1,2 +1,2 @@
 #!/bin/bash
-eco $((16#DECIMAL)) \n
+echo "base=16; $DECIMAL" | bc
