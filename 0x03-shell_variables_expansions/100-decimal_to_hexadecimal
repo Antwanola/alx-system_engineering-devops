@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$((10#$DECIMAL))\n" 
+echo -e "$((2#$DECIMAL))\n" 
